@@ -1,0 +1,17 @@
+public class Demo{
+
+   public void Process(){
+
+
+
+
+System.out.println("Hello")
+
+
+}
+
+
+
+
+
+}
