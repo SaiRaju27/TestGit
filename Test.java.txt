@@ -1,0 +1,10 @@
+public class Hello{
+  
+    public int age(){
+
+    System.out.println("Hello my age is 24")
+
+}
+   
+
+}
